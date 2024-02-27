@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: test
+  expiration_time: 86400
+  secret: this_is_test_token_secret
 
 gateway:
   ip: 192.168.0.8
