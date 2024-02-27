@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: this_is_my_dev_token_secret
+
+gateway:
+  ip: 192.168.0.8
