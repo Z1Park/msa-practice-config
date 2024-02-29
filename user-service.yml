@@ -5,9 +5,5 @@ spring:
     username: sa
     password: "{cipher}AQCCczzrFJhv8DCQBA7GGwD11XYQSK4XIttKeE+UbEp4VkmHz5QnfeX8mIUb93jrgFO6ke4mXPyP9zZonQWYd8FjiUfqS2zIiyx0p6JYdzJoeDiIdS1PZvbDOtu4RbRxGzF1dhB9TYazeE7MT+mWG+f12kDmW9JY7/PdJh3HQll5K8kJ1YmbgPZmvCF2uyMWC72vg7fTKqFlm/HofmU8c7+sTO/+wjapminaBaHZOE728sn15CJEXgY57qpkXpJ0JW65Z1U8ZNM3kqBvI6c2kyh+hCzEKIhh4tpoeWYZKra+IHpsx06RLBOes1raoFs0e1YAQsox7n5yuOtGKLLV61uyEjaQyfGGU8IVtwKUOEZCbixgDVI0ce+CAYDPikaQzRc="
 
-token:
-  expiration_time: 864000000
-  secret: this_is_my_prod_token_secret
-
 gateway:
   ip: 192.168.0.8
